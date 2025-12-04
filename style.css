@@ -27,16 +27,29 @@ th {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 input {
     padding: 8px;
     border: 1px 1px 1px;
+    width: 204px;
 }
 
 button {
-    margin-top: 10px;
-    width: 190px;
+    width: 204px;
+    height: 35px;
     padding: 10px;
+    margin-left: 10px;
+}
+
+#table-style {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+td {
+    padding: 7px;
 }
