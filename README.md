@@ -3,6 +3,9 @@
 
 Calcula a média dos usuário de acordo com suas notas na matéria. Design simples e programação básica, com tabelas, informações e estruturas.
 
+## Teste aqui!
+
+ - [Acesse aqui](https://anthonylyra.github.io/MediaCalculator/)
 
 ## Referências
 
